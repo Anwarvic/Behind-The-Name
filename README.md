@@ -15,9 +15,9 @@ The names that I have extracted have these attributes:
   - BIBLICAL LATIN(Abraham)
   - BIBLICAL(Abraham)
   - CHECHEN(Ibragim)
--  **scripts**: This attribute enumerates the other scripts that the name is written with. e.g. "Abraham" can be written as:
-  - Αβρααμ (Ancient Greek).
-  - აბრაამ (Georgian).
+- **scripts**: This attribute enumerates the other scripts that the name is written with. e.g. "Abraham" can be written as:
+  - Ancient Greek (Αβρααμ).
+  - Georgian (აბრაამ).
 - **short_forms**: This attribute enumerates the other short version of the name. e.g. "Abraham" has these short versions:
   - BOSNIAN(Ibro)
   - DUTCH(Braam, Bram)
